@@ -1,0 +1,16 @@
+{
+  "name": "PI-score",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David Epely <esion99@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "http-server",
+    "build": "bin/build.sh"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "rollup": "^3.18.0"
+  }
+}

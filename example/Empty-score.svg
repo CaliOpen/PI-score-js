@@ -1,0 +1,9 @@
+<svg id="PI-score" xmlns="http://www.w3.org/2000/svg" viewBox="-15 0 330 90" width="330" height="90">
+  <script>
+    <![CDATA[
+      window.addEventListener("load", async function() {
+        import('../src/main.js');
+      }, false);
+    ]]>
+  </script>
+</svg>
