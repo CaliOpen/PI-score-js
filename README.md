@@ -53,7 +53,7 @@ Then hack.
 Run build:
 
 ```bash
-yarn build
+bin/build
 ```
 
 Then publish.
