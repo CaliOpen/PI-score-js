@@ -18,6 +18,20 @@ src attribute. The svg includes the piece of javascript that build it-self.
 <embed src="<assets>/PI-score.svg?score=B" />
 ```
 
+**No score**
+
+```html
+<embed src="<assets>/PI-score.svg" />
+```
+
+**Change default colors**
+
+```html
+<embed
+  src="<assets>/PI-score.svg?score=A&colors=9CABA2,9CC5A1,49A078,216869,1F2421"
+/>
+```
+
 ## Installation
 
 According to your bundling system, you need to include the `PI-score.svg` file
